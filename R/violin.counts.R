@@ -34,12 +34,6 @@
 #'
 #' @export
 
-library(tidyverse)
-library(ggpubr)
-library(ggplot2)
-library(dplyr)
-library(tibble)
-
 violin_counts <- function(object = NULL, 
                             title = NULL,
                             subtitle = NULL,

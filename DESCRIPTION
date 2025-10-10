@@ -1,0 +1,10 @@
+Package: ercantools
+Title: Tools for Data Analysis in the Ercan Lab
+Version: 0.1.0
+Authors@R: 
+    person("Daniel", "Garbozo", email = "your.email@example.com", role = c("aut", "cre"))
+Description: A collection of utility functions for processing and analyzing experimental data in the Ercan Lab.
+License: MIT 
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
